@@ -1,0 +1,15 @@
+.keyBoardLayout{
+/* border: 2px solid grey; */
+width: fit-content;
+display: flex;
+flex-direction: column;
+margin: auto;
+align-items: center;
+}
+
+.keyboardRows{
+    display: flex;
+    
+    width: fit-content;
+    /* border: 2px solid grey; */
+}

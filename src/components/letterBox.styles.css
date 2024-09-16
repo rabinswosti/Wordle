@@ -1,0 +1,33 @@
+.keyboardClass{
+    /* border: 2px solid grey; */
+    width: fit-content;
+    text-align: center;
+    padding: 10px;
+    height: 25px;
+    margin: 10px;
+}
+
+.displayBoxClass{
+    /* border: 2px solid grey; */
+    width: 60px;
+    text-align: center;
+    padding: 10px;
+    height: 60px;
+    margin: 10px;
+}
+
+.default{
+    background-color: #d3d6da;
+}
+
+.present{
+    background-color: #c9b458;
+}
+
+.absent{
+    background-color: #787c7e;
+}
+
+.correct{
+    background-color: #6aaa64;
+}

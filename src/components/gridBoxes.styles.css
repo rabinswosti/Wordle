@@ -1,0 +1,13 @@
+.displayRows{
+    display: flex;
+    width: fit-content;
+    /* border: 2px solid grey; */
+}
+
+.displayContainer{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    align-items: center;
+    margin: auto;
+}
